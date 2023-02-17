@@ -20,3 +20,6 @@ CREATE TABLE lawyers(
   
   /*  Execute this query to drop the tables */
   -- DROP TABLE lawyers; --
+
+
+
